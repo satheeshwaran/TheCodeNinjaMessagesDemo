@@ -1,4 +1,21 @@
 {
+  "stickers" : [
+    {
+      "filename" : "13MAYCHUDH01_va_14_2405426f.sticker"
+    },
+    {
+      "filename" : "a4ef3b88-44ea-435d-8b56-8a2c1f92dd53OtherImage.sticker"
+    },
+    {
+      "filename" : "no-more-politics-for-vadivelu.sticker"
+    },
+    {
+      "filename" : "vadifeature.sticker"
+    },
+    {
+      "filename" : "vadivelu759.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
